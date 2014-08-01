@@ -2,13 +2,13 @@
 	<modelVersion>4.0.0</modelVersion>
 	<name>uqbar-xtend-parent</name>
 	<artifactId>uqbar-xtend-parent</artifactId>
-	<version>1.0</version>
+	<version>2.6.2</version>
 	<packaging>pom</packaging>
 
 	<parent>
 		<groupId>org.uqbar-project</groupId>
 		<artifactId>uqbar-parent-project</artifactId>
-		<version>1.8-SNAPSHOT</version>
+		<version>1.7</version>
 	</parent>
 
 	<scm>
@@ -38,7 +38,7 @@
 		<dependency>
 			<groupId>org.eclipse.xtend</groupId>
 			<artifactId>org.eclipse.xtend.lib</artifactId>
-			<version>2.4.2</version>
+			<version>2.6.2</version>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
